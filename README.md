@@ -17,12 +17,16 @@ I hope to reindex old projects and bring some use to old and rotting code. There
 # Road map
 01/15/26 
   - everything in /home/xleph/C given its own repository
+
 02/01/26
   - everything in /home/xleph/C given a thorough README.md and code markup
+
 02/15/26
   - CedarvilleDucks roadmap
   - mystery constant for [repo](deadlink) resolved
+
 03/01/26
   - potential internship start
+
 03/15/26
   - other roadmaps
