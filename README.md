@@ -1,20 +1,28 @@
-<p align="center">
-    <samp>
-    About Me🖥
-    </samp>
-</p>
-<details open align="center">
-   <summary><samp>&#9776; Details</samp></summary>
-   <p align="center">
-     <br>
-	<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"><br>
-	<img alt="Git" src="https://img.shields.io/badge/-GitCli-F05032?style=flat&logo=git&logoColor=white">
-	<img alt="Linux" src="https://img.shields.io/badge/-GNU|Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <br>
-  <a href="https://github.com/xleph/xleph"><img src="https://github-readme-stats.vercel.app/api?username=xleph&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=react" alt="name?"></a>
-  <br>
-     <a href="https://github.com/xleph" target="_blank"><img alt="xleph" src="https://badges.pufler.dev/visits/xleph/xleph?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat"/></a>
-     <a href="https://github.com/xleph/xleph" target="_blank"><img alt="Updated" src="https://img.shields.io/github/last-commit/xleph/xleph?label=Profile%20Updated&style=flat"></a>
-  </samp>
-  </p>
-</details>
+# whoami
+This user is one cloak of [many](https://github.com/cedarVM).
+
+Once upon a time I had a github account. This was a merry situation. Indeed all the little bugs in my programs were snug as could be, little snippets of code huddled happily around the fire of my mind, and everything was alright with the world.
+
+And then life had its way and threw me and my code into a sublime darkness.
+
+You see, iso imagers are wonderful pieces of technology and they aim to be pretty simple. That is the case, except the one that mistook /dev/sdb for /dev/sda when I accidentally bumped my usb hub and my drive names were all rent asunder.
+
+From that day on I have been hoping for that appointed hour when I would recover my github authentication keys and bring salvific importance to this defunct account.
+
+And indeed that day has come!
+
+# What do I hope to do with this (reclaimed) account?
+I hope to reindex old projects and bring some use to old and rotting code. There's lots of stuff sitting on my drive undocumented and this feels like an evil I should vanquish.
+
+# Road map
+01/15/26 
+  - everything in /home/xleph/C given its own repository
+02/01/26
+  - everything in /home/xleph/C given a thorough README.md and code markup
+02/15/26
+  - CedarvilleDucks roadmap
+  - mystery constant for [repo](deadlink) resolved
+03/01/26
+  - potential internship start
+03/15/26
+  - other roadmaps
