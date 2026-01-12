@@ -11,6 +11,9 @@ From that day on I have been hoping for that appointed hour when I would recover
 
 And indeed that day has come!
 
+# Why the username?
+It's the precisely niche and excessively nerdy phenomenon usernames should be. Take the first letter of the Hebrew alphabet, aleph, used in mathematics to represent the order of sets having infinite elements. Now take the (arguably) coolest letter in the Latin alphabet, x. Combine both. Done. You have xleph. 
+
 # What do I hope to do with this (reclaimed) account?
 I hope to reindex old projects and bring some use to old and rotting code. There's lots of stuff sitting on my drive undocumented and this feels like an evil I should vanquish.
 
