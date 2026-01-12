@@ -1,4 +1,5 @@
 # whoami
+<pre>
 This user is one cloak of [many](https://github.com/cedarVM).
 
 Once upon a time I had a github account. This was a merry situation. Indeed all the little bugs in my programs were snug as could be, little snippets of code huddled happily around the fire of my mind, and everything was alright with the world.
@@ -10,14 +11,16 @@ You see, iso imagers are wonderful pieces of technology and they aim to be prett
 From that day on I have been hoping for that appointed hour when I would recover my github authentication keys and bring salvific importance to this defunct account.
 
 And indeed that day has come!
+</pre>
 
 # Why the username?
-It's the precisely niche and excessively nerdy phenomenon usernames should be. Take the first letter of the Hebrew alphabet, aleph, used in mathematics to represent the order of sets having infinite elements. Now take the (arguably) coolest letter in the Latin alphabet, x. Combine both. Done. You have xleph. 
+<pre>It's the precisely niche and excessively nerdy phenomenon usernames should be. Take the first letter of the Hebrew alphabet, aleph, used in mathematics to represent the order of sets having infinite elements. Now take the (arguably) coolest letter in the Latin alphabet, x. Combine both. Done. You have xleph.</pre>
 
 # What do I hope to do with this (reclaimed) account?
-I hope to reindex old projects and bring some use to old and rotting code. There's lots of stuff sitting on my drive undocumented and this feels like an evil I should vanquish.
+<pre>I hope to reindex old projects and bring some use to old and rotting code. There's lots of stuff sitting on my drive undocumented and this feels like an evil I should vanquish.</pre>
 
 # Road map
+<pre>
 01/15/26 
   - everything in /home/xleph/C given its own repository
 
@@ -33,3 +36,4 @@ I hope to reindex old projects and bring some use to old and rotting code. There
 
 03/15/26
   - other roadmaps
+</pre>
