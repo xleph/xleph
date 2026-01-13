@@ -1,4 +1,4 @@
-# whoami
+# `whoami`
 This user is one cloak of [many](https://github.com/cedarVM).
 
 Once upon a time I had a github account. This was a merry situation. Indeed all the little bugs in my programs were snug as could be, little snippets of code huddled happily around the fire of my mind, and everything was alright with the world.
@@ -16,6 +16,26 @@ It's the precisely niche and excessively nerdy phenomenon usernames should be. T
 
 # What do I hope to do with this (reclaimed) account?
 I hope to reindex old projects and bring some use to old and rotting code. There's lots of stuff sitting on my drive undocumented and this feels like an evil I should vanquish.
+
+# Favorite Programming Slop
+
++ [Tsoding](https://www.youtube.com/@TsodingDaily)
++ [randy.gg](https://www.youtube.com/@randyprime)
++ [Bat](https://www.youtube.com/@Magicalbat)
+
+# Favorite Maths Channels
+
++ [Maths505](https://www.youtube.com/@maths_505)
++ [Michael Penn](https://www.youtube.com/@MichaelPennMath)
++ [3blue1brown](https://www.youtube.com/@3blue1brown)
+
+# Favorite Artists 
+
++ [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6)
++ [Jorge Rivera-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I)
++ [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc)
++ [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)
++ [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz)
 
 # Road map
 01/15/26 
