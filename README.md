@@ -37,12 +37,23 @@ I hope to reindex old projects and bring some use to old and rotting code. There
 + [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam)
 + [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz)
 
+# Accomplishments from 12/01/25 - 01/15/26
+  - built roadmap
+  - built profiles and project repertoire
+  - indexed picount_hilbert
+  - indexed boardgame.git
+  - reestablished account credentials
+
+
 # Road map
-01/15/26 
+01/20/26 
   - everything in /home/xleph/C given its own repository
 
 02/01/26
   - everything in /home/xleph/C given a thorough README.md and code markup
+
+02/02/26
+  - housing accomodations are resolved for my remaining semesters
 
 02/15/26
   - CedarvilleDucks roadmap
